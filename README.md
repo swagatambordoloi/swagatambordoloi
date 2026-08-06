@@ -49,28 +49,6 @@
 
 ---
 
-## / ACTIVITY
-
-<div align="center">
-
-### Building. Learning. Shipping.
-
-A snapshot of my work, experiments, and contributions across machine learning, data science, and software development.
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=8B949E&icon_color=8B949E" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E" />
-
-<br>
-
-</div>
-
----
-
 ## / CONNECT
 
 <div align="center">
