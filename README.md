@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=IntelliWell+%F0%9F%9B%A2%EF%B8%8F;AI-Powered+Well+Analytics;Machine+Learning+%7C+Data+Science" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=AI-Powered+Well+Analytics;Machine+Learning+%7C+Data+Science" />
 </p>
 # Hi 👋, I'm Swagatam Bordoloi
 
