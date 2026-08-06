@@ -51,7 +51,7 @@
 
 ## / CONNECT
 
-<div align="center">
+<<div align="center">
 
 ### Let's build something meaningful.
 
@@ -59,16 +59,19 @@ I'm always interested in conversations around **machine learning, data science, 
 
 <br>
 
-[**LinkedIn ↗**](YOUR_LINKEDIN_URL)　　[**Email ↗**](mailto:YOUR_EMAIL)　　[**Portfolio ↗**](YOUR_PORTFOLIO_URL)　　[**Resume ↗**](YOUR_RESUME_URL)
+[**LinkedIn ↗**](https://www.linkedin.com/in/swagatam-bordoloi-02ab58326/)
+&nbsp;&nbsp;&nbsp;
+[**Portfolio ↗**](https://swagatambordoloi.github.io/swagatam_bordoloi.github.io/)
+&nbsp;&nbsp;&nbsp;
+[**Email ↗**](mailto:swagatam.b2005@gmail.com)
 
 <br><br>
 
 <sub>Designed with simplicity. Built with curiosity.</sub>
 
-<br>
+<br><br>
 
-**Swagatam Bordoloi**
+**Swagatam Bordoloi**  
 Data Science · Machine Learning · Engineering
 
 </div>
-
