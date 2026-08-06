@@ -1,7 +1,9 @@
+# Hi 👋, I'm Swagatam Bordoloi
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Android+Development;Machine+Learning+%7C+Data+Science" />
 </p>
-# Hi 👋, I'm Swagatam Bordoloi
+
 
 ### Data Science Student | Machine Learning Enthusiast | Developer
 
