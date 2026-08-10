@@ -68,14 +68,29 @@
 
 ### 📌 Featured Projects
 
-| Project | Domain / Core Stack | Key Highlights | Link |
-| :--- | :--- | :--- | :---: |
-| 🤖 **Local AI** | On-Device AI, C++, Kotlin, Python | Native `llama.cpp` inference via JNI[cite: 1], CPU/GPU/NPU acceleration[cite: 1], offline PySide6 desktop app[cite: 1] | [Repository](https://github.com) |
-| 🛢️ **IntelliWell** | Data Engineering & ML, Flask, Streamlit | Multivariate Petrobras 3W sensor pipeline[cite: 1], pressure irregularity detection & diagnostic UI[cite: 1] | [Repository](https://github.com) |
-| 🛡️ **Network Attack Detection** | Cybersecurity & Analytics, PostgreSQL, Power BI | Hybrid XGBoost & Isolation Forest model across 80+ network features[cite: 1], 4-page Power BI dashboard[cite: 1] | [Repository](https://github.com) |
-| 📄 **ScanFlow** | Computer Vision, OpenCV, Android NDK | Real-time boundary detection, geometric perspective correction, and edge OCR[cite: 1] | [Repository](https://github.com) |
-| 🅿️ **ParkLens** | Edge AI & IoT, YOLOv8, MQTT | Real-time parking space occupancy analysis from video streams with live MQTT streaming[cite: 1] | [Repository](https://github.com) |
+**🤖 On-Device AI & Systems**
 
+| Project | Tech Stack | Highlights | Repository |
+| :--- | :--- | :--- | :---: |
+| **Local AI** | C++, Python, Kotlin, JNI, llama.cpp, PySide6 | Privacy-first platform running native GGUF inference via JNI[cite: 1]; features CPU/GPU/NPU acceleration[cite: 1] and an offline desktop app[cite: 1]. | [GitHub](https://github.com) |
+| **ScanFlow** | OpenCV, C++, JNI, CameraX, Kotlin | Real-time vision pipeline for document boundary detection, geometric perspective correction, and local OCR[cite: 1]. | [GitHub](https://github.com) |
+
+<br/>
+
+**📊 Data Engineering & Analytics**
+
+| Project | Tech Stack | Highlights | Repository |
+| :--- | :--- | :--- | :---: |
+| **IntelliWell** | Python, Scikit-learn, PostgreSQL, Flask, Streamlit | Preprocessed Petrobras 3W sensor data to detect pressure irregularities with root-cause analysis and a Streamlit UI[cite: 1]. | [GitHub](https://github.com) |
+| **Network Attack Analysis** | Python, PostgreSQL, XGBoost, Isolation Forest, Power BI | Hybrid intrusion detection across 80+ network features, paired with 20+ custom SQL queries and a Power BI dashboard[cite: 1]. | [GitHub](https://github.com) |
+
+<br/>
+
+**👁️ Computer Vision & IoT**
+
+| Project | Tech Stack | Highlights | Repository |
+| :--- | :--- | :--- | :---: |
+| **ParkLens** | Python, YOLOv8, OpenCV, MQTT, Pandas | Real-time parking-space occupancy detection from video streams integrated with MQTT analytics streaming[cite: 1]. | [GitHub](https://github.com) |
 ---
 
 ### 📊 GitHub Stats
