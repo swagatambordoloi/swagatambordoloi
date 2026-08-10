@@ -65,7 +65,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+<!-- CURRENTLY BUILDING -->
+## 🚧 Currently Building
 
+| Project | Focus & Domain | Status |
+| :--- | :--- | :---: |
+| **`Real Time Drilling Analysis with ML`** | Developed a machine learning-based system for real-time analysis of drilling parameters such as pressure, torque, RPM, and flow rate. It detects operational anomalies and predicts drilling conditions to support faster, data-driven decision-making.| `🐈 Work in Progress` |
+---
 ### 📌 Featured Projects
 
 **🤖 On-Device AI & Systems**
