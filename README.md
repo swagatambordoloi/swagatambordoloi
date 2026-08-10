@@ -86,10 +86,11 @@
 
 <br/>
 
-**👁️ Computer Vision & IoT**
+**👁️ Computer Vision & Edge Systems**
 
 | Project | Tech Stack | Highlights | Repository |
 | :--- | :--- | :--- | :---: |
+| **ScanFlow** | OpenCV, C++, JNI, CameraX, Kotlin, OCR | Real-time vision pipeline for document boundary detection, geometric perspective correction, and local OCR[cite: 1]. | [GitHub](https://github.com) |
 | **ParkLens** | Python, YOLOv8, OpenCV, MQTT, Pandas | Real-time parking-space occupancy detection from video streams integrated with MQTT analytics streaming[cite: 1]. | [GitHub](https://github.com) |
 ---
 
