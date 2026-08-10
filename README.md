@@ -68,11 +68,13 @@
 
 ### 📌 Featured Projects
 
-* 🤖 **[Local AI — On-Device Intelligence Platform](https://github.com)**: Privacy-first cross-platform AI platform running native C++ `llama.cpp` inference via JNI, featuring hardware acceleration (CPU/GPU/NPU delegates) and a desktop PySide6 app.
-* 🛢️ **[IntelliWell — Predictive Maintenance](https://github.com)**: Multivariate data and ML pipeline on the Petrobras 3W dataset to detect offshore well pressure irregularities, backed by a Flask API and Streamlit diagnostic UI[cite: 1].
-* 🛡️ **[Network Attack Analysis & Detection](https://github.com)**: Hybrid intrusion detection pipeline using XGBoost & Isolation Forest across 80+ network features, paired with a 4-page Power BI security dashboard[cite: 1].
-* 📄 **[ScanFlow — CV Document Scanner](https://github.com)**: Real-time document vision pipeline for boundary detection, geometric perspective transformation, and local OCR[cite: 1].
-* 🅿️ **[ParkLens — Edge-AI Parking Analytics](https://github.com)**: Real-time YOLOv8 vision pipeline for space detection and live occupancy streaming over MQTT[cite: 1].
+| Project | Domain / Core Stack | Key Highlights | Link |
+| :--- | :--- | :--- | :---: |
+| 🤖 **Local AI** | On-Device AI, C++, Kotlin, Python | Native `llama.cpp` inference via JNI[cite: 1], CPU/GPU/NPU acceleration[cite: 1], offline PySide6 desktop app[cite: 1] | [Repository](https://github.com) |
+| 🛢️ **IntelliWell** | Data Engineering & ML, Flask, Streamlit | Multivariate Petrobras 3W sensor pipeline[cite: 1], pressure irregularity detection & diagnostic UI[cite: 1] | [Repository](https://github.com) |
+| 🛡️ **Network Attack Detection** | Cybersecurity & Analytics, PostgreSQL, Power BI | Hybrid XGBoost & Isolation Forest model across 80+ network features[cite: 1], 4-page Power BI dashboard[cite: 1] | [Repository](https://github.com) |
+| 📄 **ScanFlow** | Computer Vision, OpenCV, Android NDK | Real-time boundary detection, geometric perspective correction, and edge OCR[cite: 1] | [Repository](https://github.com) |
+| 🅿️ **ParkLens** | Edge AI & IoT, YOLOv8, MQTT | Real-time parking space occupancy analysis from video streams with live MQTT streaming[cite: 1] | [Repository](https://github.com) |
 
 ---
 
