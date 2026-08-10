@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20[Swagatam]👋&fontSize=38&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20Swagatam👋&fontSize=38&animation=fadeIn" width="100%" />
 
 <!-- TYPING EFFECT -->
 <a href="https://git.io/typing-svg">
