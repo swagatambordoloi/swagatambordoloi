@@ -102,14 +102,7 @@
 | **ParkLens** | Python, YOLOv8, OpenCV, MQTT, Pandas | Real-time parking-space occupancy detection from video streams integrated with MQTT analytics streaming[cite: 1]. | [GitHub](https://github.com) |
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swagatambordoloi&theme=tokyonight" height="180" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagatambordoloi&theme=tokyonight" height="180" alt="Profile Details" />
-
-</div>
 
 ### 🐍 Contribution Activity
 
