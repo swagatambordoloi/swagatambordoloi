@@ -81,8 +81,8 @@
 | Project | Tech Stack | Highlights | Repository |
 | :--- | :--- | :--- | :---: |
 | **Local AI (Desktop)** | C++, Python, PySide6, Qwen 2.5, Moondream2 | Fully offline desktop app featuring a lazy-loaded vision engine, PySide6 UI, local RAG capabilities, and code execution. | [GitHub](https://github.com/swagatambordoloi/Local-AI) |
-| **Local AI Android** | Kotlin, Jetpack Compose, OpenCV, On-Device LLM | Mobile-native interface for running privacy-first local AI models directly on Android hardware. | [GitHub](https://github.com/swagatambordoloi/Local-AI-Android) |
-| **Local AI (GGUF Edition)** | C++, JNI, llama.cpp, GGUF | High-performance native inference engine running quantized GGUF models with CPU/GPU acceleration. | [GitHub](https://github.com/swagatambordoloi/Local-AI-GGUF) |
+| **Local AI Android** | Kotlin, Jetpack Compose, OpenCV, On-Device LLM | Mobile-native interface for running privacy-first local AI models directly on Android hardware. | [GitHub](https://github.com/swagatambordoloi/LocalAI-Android) |
+| **Local AI (GGUF Edition)** | C++, JNI, llama.cpp, GGUF | High-performance native inference engine running quantized GGUF models with CPU/GPU acceleration. | [GitHub](https://github.com/swagatambordoloi/Local-Ai-GGUF-Edition) |
 | **ScanFlow** | OpenCV, C++, JNI, CameraX, Kotlin | Real-time vision pipeline for document boundary detection, geometric perspective correction, and local OCR. | [GitHub](https://github.com/swagatambordoloi/ScanFlow) |
 <br/>
 
