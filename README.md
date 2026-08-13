@@ -106,12 +106,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=swagatambordloi&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats card" />
+<img src="https://github-readme-stats.vercel.app/api?username=swagatambordoloi&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats card" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatambordoloi&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages card" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="streak stats card" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatambordoloi&theme=tokyonight&hide_border=true" alt="streak stats card" />
 
 </div>
 
