@@ -81,7 +81,7 @@
 | Project | Tech Stack | Highlights | Repository |
 | :--- | :--- | :--- | :---: |
 | **Local AI** | C++, Python, Kotlin, JNI, llama.cpp, PySide6 | Privacy-first platform running native GGUF inference via JNI[cite: 1]; features CPU/GPU/NPU acceleration[cite: 1] and an offline desktop app[cite: 1]. | [GitHub](https://github.com/swagatambordoloi/Local-Ai) |
-| **ScanFlow** | OpenCV, C++, JNI, CameraX, Kotlin | Real-time vision pipeline for document boundary detection, geometric perspective correction, and local OCR[cite: 1]. | [GitHub](https://github.com) |
+| **ScanFlow** | OpenCV, C++, JNI, CameraX, Kotlin | Real-time vision pipeline for document boundary detection, geometric perspective correction, and local OCR[cite: 1]. | [GitHub](https://github.com/swagatambordoloi/ScanFlow). |
 
 <br/>
 
