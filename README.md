@@ -114,3 +114,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="streak stats card" />
 
 </div>
+
+<div align="center">
+
+### 🐍 Contribution Activity
+
+<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
