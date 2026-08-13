@@ -106,8 +106,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swagatambordoloi&theme=tokyonight" height="150" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagatambordoloi&theme=tokyonight" height="150" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swagatambordoloi&theme=tokyonight" height="180" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagatambordoloi&theme=tokyonight" height="180" alt="Profile Details" />
 
 </div>
 
