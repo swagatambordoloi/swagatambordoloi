@@ -1,15 +1,3 @@
-# Swagatam Bordoloi 👋
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C4B5FD&background=1E1E2E&center=true&vCenter=true&width=550&height=50&lines=%24+systemctl+start+on-device-ai;%24+spark-submit+pipeline.py;%24+adb+shell+monitord" alt="Terminal Header" />
-
-</div>
-
----
-
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20Swagatam%20Bordoloi👋&fontSize=36&fontFamily=Righteous&animation=fadeIn" width="100%" />
