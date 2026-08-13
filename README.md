@@ -106,8 +106,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages card" />
+<img src="https://github-readme-stats.vercel.app/api?username=swagatambordloi&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatambordoloi&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages card" />
 
 <br/>
 
@@ -119,7 +119,7 @@
 
 ### 🐍 Contribution Activity
 
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/swagatambordoloi/swagatambordoloi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
