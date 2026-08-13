@@ -89,7 +89,7 @@
 
 | Project | Tech Stack | Highlights | Repository |
 | :--- | :--- | :--- | :---: |
-| **IntelliWell** | Python, Scikit-learn, PostgreSQL, Flask, Streamlit | Preprocessed Petrobras 3W sensor data to detect pressure irregularities with root-cause analysis and a Streamlit UI[cite: 1]. | [GitHub](https://github.com) |
+| **IntelliWell** | Python, Scikit-learn, PostgreSQL, Flask, Streamlit | Preprocessed Petrobras 3W sensor data to detect pressure irregularities with root-cause analysis and a Streamlit UI[cite: 1]. | [GitHub](https://github.com/Project-Our-s/IntelliWell-AI-Powered-Predictive-Maintenance-Production-Forecasting-for-Oil-Wells).|
 | **Network Attack Analysis** | Python, PostgreSQL, XGBoost, Isolation Forest, Power BI | Hybrid intrusion detection across 80+ network features, paired with 20+ custom SQL queries and a Power BI dashboard[cite: 1]. | [GitHub](https://github.com) |
 
 <br/>
