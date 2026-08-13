@@ -92,7 +92,7 @@
 | :--- | :--- | :--- | :---: |
 | **IntelliWell** | Python, Scikit-learn, PostgreSQL, Flask, Streamlit | Preprocessed Petrobras 3W sensor data to detect pressure irregularities with root-cause analysis and a Streamlit UI[cite: 1]. | [GitHub](https://github.com/Project-Our-s/IntelliWell-AI-Powered-Predictive-Maintenance-Production-Forecasting-for-Oil-Wells) |
 | **Network Attack Analysis** | Python, PostgreSQL, XGBoost, Isolation Forest, Power BI | Hybrid intrusion detection across 80+ network features, paired with 20+ custom SQL queries and a Power BI dashboard[cite: 1]. | [GitHub](https://github.com/Project-Our-s/Network-Attack-Analysis-And-Detection) |
-
+| **Predictive Maintenance Analysis in Petroleum** | Python, Machine Learning, Scikit-learn, Pandas | End-to-end predictive maintenance and industrial anomaly detection system built on the Petrobras 3W dataset. | [GitHub](https://github.com/Project-Our-s/Predictive-Maintenance-Analysis-in-Petroleum-using-ML) |
 <br/>
 
 **👁️ Computer Vision & Edge Systems**
@@ -109,7 +109,7 @@
 
 | Project | Tech Stack | Highlights | Repository |
 | :--- | :--- | :--- | :---: |
-| **Lighter LM Studio** | Python, PySide6, llama.cpp | Lightweight desktop GUI for serving and chatting with local LLMs with minimal resource overhead. | [GitHub](https://github.com/swagatambordoloi/Lighter-LM-Studio) |
+| **Lighter LM Studio** | Python, PySide6, llama.cpp | Lightweight desktop GUI for serving and chatting with local LLMs with minimal resource overhead. | [GitHub](https://github.com/swagatambordoloi/LITERT-LM-Studio) |
 
 
 ### 🐍 Contribution Activity
