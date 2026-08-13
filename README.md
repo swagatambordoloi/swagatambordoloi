@@ -106,13 +106,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=swagatambordoloi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swagatambordoloi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="150" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swagatambordoloi&theme=tokyonight" height="150" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagatambordoloi&theme=tokyonight" height="150" alt="Profile Details" />
 
 </div>
-
-
-<div align="center">
 
 ### 🐍 Contribution Activity
 
