@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20Swagatam%20Bordoloi👋&fontSize=36&fontFamily=Fredoka&animation=fadeIn" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20Swagatam%20Bordoloi👋&fontSize=36&fontFamily=Righteous&animation=fadeIn" width="100%" />
 
 
 <!-- TYPING EFFECT -->
