@@ -58,11 +58,12 @@
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**DevOps & On-Device AI**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| **Mobile, Tooling & DevOps** | 
+![Android Studio](https://img.shields.io/badge/Android_Studio-161B22?style=flat-square&logo=androidstudio&logoColor=3DDC84) 
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-161B22?style=flat-square&logo=kubernetes&logoColor=326CE5) 
+![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05033) 
+![Linux](https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=FCC624) |
 
 ---
 <!-- CURRENTLY BUILDING -->
