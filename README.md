@@ -81,7 +81,7 @@
 | Project | Tech Stack | Highlights | Repository |
 | :--- | :--- | :--- | :---: |
 | **Local AI** | C++, Python, Kotlin, JNI, llama.cpp, PySide6 | Privacy-first platform running native GGUF inference via JNI[cite: 1]; features CPU/GPU/NPU acceleration[cite: 1] and an offline desktop app[cite: 1]. | [GitHub](https://github.com/swagatambordoloi/Local-Ai) |
-| **ScanFlow** | OpenCV, C++, JNI, CameraX, Kotlin | Real-time vision pipeline for document boundary detection, geometric perspective correction, and local OCR[cite: 1]. | [GitHub](https://github.com/swagatambordoloi/ScanFlow). |
+| **ScanFlow** | OpenCV, C++, JNI, CameraX, Kotlin | Real-time vision pipeline for document boundary detection, geometric perspective correction, and local OCR[cite: 1]. | [GitHub](https://github.com/swagatambordoloi/ScanFlow) |
 
 <br/>
 
@@ -89,8 +89,8 @@
 
 | Project | Tech Stack | Highlights | Repository |
 | :--- | :--- | :--- | :---: |
-| **IntelliWell** | Python, Scikit-learn, PostgreSQL, Flask, Streamlit | Preprocessed Petrobras 3W sensor data to detect pressure irregularities with root-cause analysis and a Streamlit UI[cite: 1]. | [GitHub](https://github.com/Project-Our-s/IntelliWell-AI-Powered-Predictive-Maintenance-Production-Forecasting-for-Oil-Wells).|
-| **Network Attack Analysis** | Python, PostgreSQL, XGBoost, Isolation Forest, Power BI | Hybrid intrusion detection across 80+ network features, paired with 20+ custom SQL queries and a Power BI dashboard[cite: 1]. | [GitHub](https://github.com) |
+| **IntelliWell** | Python, Scikit-learn, PostgreSQL, Flask, Streamlit | Preprocessed Petrobras 3W sensor data to detect pressure irregularities with root-cause analysis and a Streamlit UI[cite: 1]. | [GitHub](https://github.com/Project-Our-s/IntelliWell-AI-Powered-Predictive-Maintenance-Production-Forecasting-for-Oil-Wells) |
+| **Network Attack Analysis** | Python, PostgreSQL, XGBoost, Isolation Forest, Power BI | Hybrid intrusion detection across 80+ network features, paired with 20+ custom SQL queries and a Power BI dashboard[cite: 1]. | [GitHub](https://github.com/Project-Our-s/Network-Attack-Analysis-And-Detection) |
 
 <br/>
 
