@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20Swagatam%20Bordoloi👋&fontSize=36&fontFamily=Righteous&animation=fadeIn" width="100%" />
 
-
 <!-- TYPING EFFECT -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A7F3D0&center=true&vCenter=true&width=600&lines=Computer+Engineering+%2B+Data+Science;ML+Engineer+%2B+On-Device+AI;Python+%7C+C%2B%2B+%7C+SQL+%7C+Kotlin" alt="Typing SVG" />
@@ -29,13 +28,12 @@
 
 - 🎓 **Education:** B.Tech in Computer Engineering with Data Science at Manipal Institute of Technology, Bengaluru (Expected May 2027)
 - 🔬 **Focus Areas:** Machine Learning, On-Device AI, Real-time Computer Vision, and Data Engineering Pipelines
-- 🛠️ **Current Work:** Building cross-platform native inference engines (`llama.cpp`, `GGUF`, `LiteRTLM`) and edge-AI analytics tools
+- 🛠️ **Current Work:** Building cross-platform native inference engines (`llama.cpp`, `GGUF`, `LiteRT`) and edge-AI analytics tools
 - 📍 **Location:** Bengaluru, India
 
 ---
 
 ### 🛠️ Tech Stack
-
 
 **Languages & Systems**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,13 +65,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-<!-- CURRENTLY BUILDING -->
+
 ## 🚧 Currently Building
 
 | Project | Focus & Domain | Status |
 | :--- | :--- | :---: |
-| **`Real Time Drilling Analysis with ML`** | Developed a machine learning-based system for real-time analysis of drilling parameters such as pressure, torque, RPM, and flow rate. It detects operational anomalies and predicts drilling conditions to support faster, data-driven decision-making.| `🐈 Work in Progress` |
+| **`Real Time Drilling Analysis with ML`** | Developed a machine learning-based system for real-time analysis of drilling parameters such as pressure, torque, RPM, and flow rate. It detects operational anomalies and predicts drilling conditions to support faster, data-driven decision-making. | `🐈 Work in Progress` |
+
 ---
+
 ### 📌 Featured Projects
 
 ### 🤖 On-Device AI & Systems
@@ -84,24 +84,25 @@
 | **Local AI Android** | Kotlin, Jetpack Compose, OpenCV, On-Device LLM | Mobile-native interface for running privacy-first local AI models directly on Android hardware. | [GitHub](https://github.com/swagatambordoloi/LocalAI-Android) |
 | **Local AI (GGUF Edition)** | C++, JNI, llama.cpp, GGUF | High-performance native inference engine running quantized GGUF models with CPU/GPU acceleration. | [GitHub](https://github.com/swagatambordoloi/Local-Ai-GGUF-Edition) |
 | **ScanFlow** | OpenCV, C++, JNI, CameraX, Kotlin | Real-time vision pipeline for document boundary detection, geometric perspective correction, and local OCR. | [GitHub](https://github.com/swagatambordoloi/ScanFlow) |
+
 <br/>
 
-**📊 Data Engineering & Analytics**
+### 📊 Data Engineering & Analytics
 
 | Project | Tech Stack | Highlights | Repository |
 | :--- | :--- | :--- | :---: |
-| **IntelliWell** | Python, Scikit-learn, PostgreSQL, Flask, Streamlit | Preprocessed Petrobras 3W sensor data to detect pressure irregularities with root-cause analysis and a Streamlit UI[cite: 1]. | [GitHub](https://github.com/Project-Our-s/IntelliWell-AI-Powered-Predictive-Maintenance-Production-Forecasting-for-Oil-Wells) |
-| **Network Attack Analysis** | Python, PostgreSQL, XGBoost, Isolation Forest, Power BI | Hybrid intrusion detection across 80+ network features, paired with 20+ custom SQL queries and a Power BI dashboard[cite: 1]. | [GitHub](https://github.com/Project-Our-s/Network-Attack-Analysis-And-Detection) |
+| **IntelliWell** | Python, Scikit-learn, PostgreSQL, Flask, Streamlit | Preprocessed Petrobras 3W sensor data to detect pressure irregularities with root-cause analysis and a Streamlit UI. | [GitHub](https://github.com/Project-Our-s/IntelliWell-AI-Powered-Predictive-Maintenance-Production-Forecasting-for-Oil-Wells) |
+| **Network Attack Analysis** | Python, PostgreSQL, XGBoost, Isolation Forest, Power BI | Hybrid intrusion detection across 80+ network features, paired with 20+ custom SQL queries and a Power BI dashboard. | [GitHub](https://github.com/Project-Our-s/Network-Attack-Analysis-And-Detection) |
 | **Predictive Maintenance Analysis in Petroleum** | Python, Machine Learning, Scikit-learn, Pandas | End-to-end predictive maintenance and industrial anomaly detection system built on the Petrobras 3W dataset. | [GitHub](https://github.com/Project-Our-s/Predictive-Maintenance-Analysis-in-Petroleum-using-ML) |
+
 <br/>
 
-**👁️ Computer Vision & Edge Systems**
+### 👁️ Computer Vision & Edge Systems
 
 | Project | Tech Stack | Highlights | Repository |
 | :--- | :--- | :--- | :---: |
-| **ScanFlow** | OpenCV, C++, JNI, CameraX, Kotlin, OCR | Real-time vision pipeline for document boundary detection, geometric perspective correction, and local OCR[cite: 1]. | [GitHub](https://github.com/swagatambordoloi/ScanFlow) |
-| **ParkLens** | Python, YOLOv8, OpenCV, MQTT, Pandas | Real-time parking-space occupancy detection from video streams integrated with MQTT analytics streaming[cite: 1]. | [GitHub](https://github.com/swagatambordoloi/-ParkLens) |
----
+| **ScanFlow** | OpenCV, C++, JNI, CameraX, Kotlin, OCR | Real-time vision pipeline for document boundary detection, geometric perspective correction, and local OCR. | [GitHub](https://github.com/swagatambordoloi/ScanFlow) |
+| **ParkLens** | Python, YOLOv8, OpenCV, MQTT, Pandas | Real-time parking-space occupancy detection from video streams integrated with MQTT analytics streaming. | [GitHub](https://github.com/swagatambordoloi/-ParkLens) |
 
 <br/>
 
@@ -111,6 +112,9 @@
 | :--- | :--- | :--- | :---: |
 | **Lighter LM Studio** | Python, PySide6, llama.cpp | Lightweight desktop GUI for serving and chatting with local LLMs with minimal resource overhead. | [GitHub](https://github.com/swagatambordoloi/LITERT-LM-Studio) |
 
+---
+
+<div align="center">
 
 ### 🐍 Contribution Activity
 
