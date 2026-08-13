@@ -102,6 +102,9 @@
 | **ScanFlow** | OpenCV, C++, JNI, CameraX, Kotlin, OCR | Real-time vision pipeline for document boundary detection, geometric perspective correction, and local OCR[cite: 1]. | [GitHub](https://github.com/swagatambordoloi/ScanFlow) |
 | **ParkLens** | Python, YOLOv8, OpenCV, MQTT, Pandas | Real-time parking-space occupancy detection from video streams integrated with MQTT analytics streaming[cite: 1]. | [GitHub](https://github.com/swagatambordoloi/-ParkLens) |
 ---
+
+<br/>
+
 ### 🛠️ Desktop Apps & Developer Tools
 
 | Project | Tech Stack | Highlights | Repository |
