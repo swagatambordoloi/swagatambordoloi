@@ -106,10 +106,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=swagatambordoloi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" alt="stats card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatambordoloi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" alt="top languages card" />
+<img src="https://github-readme-stats.vercel.app/api?username=swagatambordoloi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatambordoloi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="150" alt="top languages card" />
 
-<br/>
+</div>
 
 
 
