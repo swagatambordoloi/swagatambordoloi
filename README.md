@@ -111,7 +111,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=swagatambordoloi&theme=tokyonight&hide_border=true" alt="streak stats card" />
+
 
 </div>
 
