@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/swagatam-bordoloi-02ab58326">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://portfolio.com">
+<a href="https://swagatambordoloi.github.io/swagatam_bordoloi.github.io">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 </a>
 
