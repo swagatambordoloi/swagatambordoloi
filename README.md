@@ -118,6 +118,6 @@
 
 ### 🐍 Contribution Activity
 
-<img src="https://raw.githubusercontent.com/swagatambordoloi/swagatambordoloi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/swagatambordoloi/swagatambordoloi/output/swagatam-snake.svg" alt="Snake animation" />
 
 </div>
