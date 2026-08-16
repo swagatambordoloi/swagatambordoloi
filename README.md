@@ -110,7 +110,9 @@
 
 | Project | Tech Stack | Highlights | Repository |
 | :--- | :--- | :--- | :---: |
+| **TurboCopy** | Rust, `jwalk`, `crossbeam-channel`, `indicatif`, Windows API | High-throughput concurrent file copy engine built in Rust; uses parallel directory scanning, bounded worker channels, and decoupled atomic UI tracking to achieve up to **8.5× faster** transfers for small-file workloads. | [GitHub](https://github.com/swagatambordoloi/TurboCopy) |
 | **Lighter LM Studio** | Python, PySide6, llama.cpp | Lightweight desktop GUI for serving and chatting with local LLMs with minimal resource overhead. | [GitHub](https://github.com/swagatambordoloi/LITERT-LM-Studio) |
+
 
 ---
 
