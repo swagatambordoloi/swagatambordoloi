@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,28&height=200&section=header&text=Hi,%20I'm%20Swagatam%20Bordoloi👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=007acc,7928ca,ff0080&height=220&section=header&text=Welcome%20to%20Our%20Org&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6f42c1,8a2be2,4b0082&height=220&section=header&text=Welcome%20to%20Our%20Org&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 <!-- TYPING EFFECT -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A7F3D0&center=true&vCenter=true&width=600&lines=Computer+Engineering+%2B+Data+Science;ML+Engineer+%2B+On-Device+AI;Python+%7C+C%2B%2B+%7C+SQL+%7C+Kotlin" alt="Typing SVG" />
